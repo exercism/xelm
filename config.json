@@ -117,6 +117,19 @@
       ]
     },
     {
+      "slug": "binary-search-tree",
+      "uuid": "760fd5d1-577a-4532-9419-1b563dc89f83",
+      "core": false,
+      "unlocked_by": null,
+      "difficulty": 2,
+      "topics": [
+	      "lists",
+	      "trees",
+	      "sorting",
+        "recursion"
+      ]
+    },
+    {
       "slug": "collatz-conjecture",
       "uuid": "0edd5fa2-f1db-4572-9810-55a2c6729753",
       "core": false,
@@ -220,7 +233,19 @@
       "slug": "binary-search",
       "uuid": "1F9FE5BC-8213-44FD-B7D1-5D4CC7F3A475",
       "core": false,
-      "unlocked_by": "sum-of-multiples",
+      "unlocked_by": null,
+      "difficulty": 3,
+      "topics": [
+        "algorithms",
+        "lists",
+        "recursion"
+      ]
+    },
+    {
+      "slug": "huffman-code",
+      "uuid": "27cd2e36-cb5d-4701-b5ff-8d2d0efaef95",
+      "core": false,
+      "unlocked_by": null,
       "difficulty": 3,
       "topics": [
         "algorithms",
